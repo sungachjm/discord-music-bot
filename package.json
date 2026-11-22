@@ -1,0 +1,17 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Bot nhạc Discord: slash commands, hàng chờ, nút điều khiển, Lavalink",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.0",
+    "dotenv": "^16.4.5",
+    "shoukaku": "^4.1.1"
+  }
+}
